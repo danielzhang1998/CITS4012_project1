@@ -17,4 +17,4 @@
 ✔️ robot now can get the clear user input (remove unnecessary words, now able to match in the data set)
 ✔️ robot now able to reply user input (exp, job, job type, city, company name)
 ✔️ robot now able to match the job in job description, in get_job_matching function.
-✔️ Need to get the top N result when user got a large number of result
+✔️ Need to get the top N result when user got a large number of result (bugs fixed)
