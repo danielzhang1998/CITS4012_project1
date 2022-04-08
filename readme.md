@@ -1,3 +1,8 @@
+Daniel Zhang 22541459
+
+UWA CITS4012 project1
+
+
 ✔️ What are the unique Job categories in the dataset for each city? Visualise the frequency of job categories, allowing city being a variable.
 ✔️ Work out the vocabulary used by each job category, respectively. Visualise the Word Frequency.
 ✔️ data cleaning
