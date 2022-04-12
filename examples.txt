@@ -1,0 +1,30 @@
+Job, location
+
+
+Find me a job for accountant in Sydney.
+
+I want a job for sales in Perth.
+
+
+exp, job
+
+
+I have no experience, find me a job in bakery.
+
+I do not have experience, find me a job in a bakery.
+
+
+exp, job
+
+
+I have ten years of experience in taxation, find me a job.
+
+I work in taxation for ten years, show me a job.
+
+More
+
+Give me a full time job for sales at Randstad - Business Support in Sydney.
+
+I want a full time job for Administration & Office Support at Randstad - Business Support in Sydney.
+
+I have 5 years of experience, I want a Full Time job for Sales at Randstad - Business Support in Sydney.
